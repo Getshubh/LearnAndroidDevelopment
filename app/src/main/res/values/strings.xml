@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Android Development</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="database">topic</string>
+    <string name="text_description">Description</string>
+</resources>

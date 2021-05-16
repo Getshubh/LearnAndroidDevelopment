@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312583305428",
+    "project_id": "learn-android-developmen-e6808",
+    "storage_bucket": "learn-android-developmen-e6808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312583305428:android:fe00f0cfe04319e4a72341",
+        "android_client_info": {
+          "package_name": "com.getshubh.learnandroiddevelopment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312583305428-cudreco89ph5vvhmmrtpg90hdukhpl8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlB9lLpCpXQiDFVWcFuzIfSGrQaYai5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312583305428-cudreco89ph5vvhmmrtpg90hdukhpl8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
